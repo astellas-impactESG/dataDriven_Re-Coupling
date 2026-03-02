@@ -1,0 +1,7 @@
+# R dependencies for replication package
+# Tested on R 4.4.2 (2024-10-31 ucrt)
+
+conflicted==1.2.0
+fixest==0.12.1
+marginaleffects==0.28.0
+tidyverse==2.0.0
